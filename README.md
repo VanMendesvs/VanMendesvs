@@ -1,6 +1,6 @@
 Oiee!! Eu sou a Vanessa Mendes
 
-- 🖥️ Estou estudando desenvolvimeto Front-End e AWS Cloud
+- 🖥️ Estou estudando Front-End e AWS Cloud
 - 📫 Contate-me: v_mendesv@hotmail.com
 - 😄 Pronouns: ela/dela
 
