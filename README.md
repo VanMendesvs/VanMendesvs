@@ -1,6 +1,6 @@
 Oiee!! Eu sou a Vanessa Mendes
 
-- 🖥️ Estou estudando Front-End e AWS Cloud
+- 🖥️ Estou estudando FullStack e AWS Cloud
 - 📫 Contate-me: v_mendesv@hotmail.com
 - 😄 Pronouns: ela/dela
 
@@ -12,6 +12,7 @@ Oiee!! Eu sou a Vanessa Mendes
   <img align="center" alt="Van-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Van-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="VAn-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="VAn-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
 
  ##
