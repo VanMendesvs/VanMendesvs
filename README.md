@@ -1,6 +1,6 @@
 Oiee!! Eu sou a Vanessa Mendes
 
-- 🖥️ Estudante FullStack e AWS Cloud
+- 🖥️ Estudante Dados e AWS Cloud
 - 📫 Contate-me: v_mendesv@hotmail.com
 - 😄 Pronouns: ela/dela
 
