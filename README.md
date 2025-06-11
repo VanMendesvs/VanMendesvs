@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou a Vanessa Mendes da Silva!
 
-🎯 **Analista de Dados em formação **  
+  
 💡 Apaixonada por transformar dados em decisões estratégicas.  
 
 ---
